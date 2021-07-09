@@ -4,7 +4,7 @@
 - 🌐 HTML | CSS | Bootstrap | Thymeleaf
 - 🛢 MySQL | JPA | Hibernate
 - 🔧 Git | Gradle | Maven | JUnit | Mockito | EasyMock
-- 🖥 IntelliJ | Visual Code | Postman
+- 🖥 IntelliJ | Visual Studio Code | Postman
 ### 💡 Familiar with
 - ⚛️ React | jQuery | JavaScript
 ### ☕ Connect with Me
