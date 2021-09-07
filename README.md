@@ -1,6 +1,6 @@
 ## Hey there! I'm Akos🌵
 ### 🛠 Tech Stack
-- 💻 Java | Spring
+- 💻 Java | Spring Boot
 - 🌐 HTML | CSS | Sass | Bootstrap | Thymeleaf
 - 🛢 MySQL | JPA | Hibernate | Liquibase | PostgreSQL 
 - 🔧 Git | Gradle | Maven | JUnit | Mockito | EasyMock
