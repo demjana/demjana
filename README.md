@@ -1,11 +1,11 @@
 ## Hey there! I'm Akos🌵
 ### 🛠 Tech Stack
 - 💻 Java | Spring
-- 🌐 HTML | CSS | Bootstrap | Thymeleaf
-- 🛢 MySQL | JPA | Hibernate
+- 🌐 HTML | CSS | Sass | Bootstrap | Thymeleaf
+- 🛢 MySQL | JPA | Hibernate | Liquibase | PostgreSQL 
 - 🔧 Git | Gradle | Maven | JUnit | Mockito | EasyMock
-- 🖥 IntelliJ | Visual Studio Code | Postman
+- 🖥 IntelliJ | Visual Studio Code | Atom | Postman
 ### 💡 Familiar with
-- ⚛️ React | jQuery | JavaScript
+- ⚛️ JavaScript | React | jQuery | TypeScript | Angular
 ### ☕ Connect with Me
 - LinkedIn: [Ákos Demján](www.linkedin.com/in/akos-demjan)
